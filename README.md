@@ -64,11 +64,11 @@ Opened the Remote tab within System Properties to review Remote Desktop and Remo
 
 ---
 
-### 3. Open Control Panel
+### 3. Windows Defender Firewall
 
-Navigated through Control Panel to access Windows administrative tools related to Remote Desktop.
+Verified that **Remote Desktop** was allowed through Windows Defender Firewall to ensure remote connections are permitted.
 
-![Control Panel](screenshots/03-control-panel.png)
+![Windows Defender Firewall](screenshots/03-firewall-remote-desktop.png)
 
 ---
 
